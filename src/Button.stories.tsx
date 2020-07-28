@@ -23,6 +23,18 @@ export default {
   argsType: {
     isActive: {
       description: 'overwriting text'
+    },
+    align: {
+      name: 'align',
+      description: 'Aligns element to start, end or center'
     }
   }
+}
+
+export const defaultButton = (args: any) => <Button {...args}>Test rendering</Button>
+
+
+defaultButton.args = {
+  align: 'start',
+  children: 'test'
 }
