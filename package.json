@@ -92,7 +92,7 @@
     "react-test-renderer": "^16.13.1",
     "starwars-names": "^1.6.0",
     "storybook-addon-jsx": "^7.3.4-canary.118.457.0",
-    "stylelint": "^9.10.1",
+    "stylelint": "^15.10.1",
     "stylelint-config-recommended": "^2.2.0",
     "stylelint-config-styled-components": "^0.1.1",
     "stylelint-processor-styled-components": "^1.10.0",
